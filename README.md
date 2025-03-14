@@ -22,7 +22,7 @@ GEID | GE简主义  集成高效率专注软件
 3. 高效率协助工作和学习
 
 ## 下载
-链接：
+链接：https://github.com/2983150050/GEID-GEIdea/releases
 
 当前版本 / 日期
 Version `1.5.7` / 2025.03.13
